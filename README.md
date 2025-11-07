@@ -4,6 +4,6 @@ DEMO_VERSION_CONTROL
  - 2. Add file คู่มือเวอร์ชัน -- commit 2
 
  # วิธีที่ 1: โคลนทั้ง repo แล้ว checkout commit ที่ต้องการ
- - git clone <url>
- - cd <repo>
- - git checkout <commit-hash>
+ - git clone "<url>"
+ - cd "<repo>"
+ - git checkout "<commit-hash>"
